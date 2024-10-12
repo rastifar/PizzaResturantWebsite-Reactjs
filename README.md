@@ -4,7 +4,7 @@
 ## Project Overview
 
 This project was created based on a tutorial I followed a few years ago.
-The tutorial provided a comprehensive guide on creating a web page using React.js and Styled-component.
+This project is an online pizza ordering website built with React and styled-components
 I implemented the project to enhance my understanding of Styled-component.
 
 
